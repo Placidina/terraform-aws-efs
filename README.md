@@ -13,7 +13,7 @@ Available features:
 ```hcl
 module "efs" {
     source  = "Placidina/efs/aws"
-    version = "~> 0.1.1"
+    version = "~> 0.2.1"
 
     name = "example-efs"
 
