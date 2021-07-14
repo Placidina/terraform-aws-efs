@@ -70,6 +70,7 @@ No modules.
 
 | Name | Description |
 |---|---|
+| <a name="input_name"></a> [name](#input\_name) | EFS name |
 | <a name="input_file_system_arn"></a> [file_system_arn](#input\_file\_system\_arn) | Amazon Resource Name of the file system |
 | <a name="input_file_system_id"></a> [file_system_id](#input\_file\_system\_id) | The ID that identifies the file system |
 | <a name="input_mount_target_id"></a> [mount_target_id](#input\_mount\_target\_id) | The ID of the mount target |

@@ -1,3 +1,8 @@
+output "name" {
+  description = "EFS name"
+  value       = var.name
+}
+
 output "file_system_arn" {
   description = "Amazon Resource Name of the file system"
   value       = aws_efs_file_system.this.arn
